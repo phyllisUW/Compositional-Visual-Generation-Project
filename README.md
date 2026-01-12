@@ -1,14 +1,14 @@
 # Compositional-Visual-Generation-Project
 Compositional Visual Generation via LoRA-Enhanced Stable Diffusion with Depth Conditioning
 
-Group Course Project
+Course Group Project
 
 Objective: Fine-tune the Stable Diffusion (SD)
 model for the LAION SG Dataset [Li et al., 2024] to 
 improve text-to-image generation from complex 
 compositional prompts
 
-[Full paper and Project Explanation Here](./paper.pdf)
+[Full paper and Project Explanation Here](./Paper.pdf)
 
 
 INTRODUCTION
