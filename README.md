@@ -50,13 +50,7 @@ yellow bookshelf
 METHODS
 
 To explore the impact of fine-tuning techniques of 
-different modules, the model was trained with the 
-following configs:
-
-1. Frozen text encoder + LoRA U-Net attention layers + fully trained Depth Predictor
-2. Fully fine-tuned text encoder + LoRA U-Net 
-attention layers + fully trained Depth Predictor
-
+different modules, the model was trained with varying configurations following these methods:
 
 ➢ Convert scene graph annotations from LAION-SG 
 into compositional text prompts
